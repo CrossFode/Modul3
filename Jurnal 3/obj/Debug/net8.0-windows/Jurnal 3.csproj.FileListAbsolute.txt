@@ -1,0 +1,16 @@
+D:\Jurnal 3\Jurnal 3\bin\Debug\net8.0-windows\Jurnal 3.exe
+D:\Jurnal 3\Jurnal 3\bin\Debug\net8.0-windows\Jurnal 3.deps.json
+D:\Jurnal 3\Jurnal 3\bin\Debug\net8.0-windows\Jurnal 3.runtimeconfig.json
+D:\Jurnal 3\Jurnal 3\bin\Debug\net8.0-windows\Jurnal 3.dll
+D:\Jurnal 3\Jurnal 3\bin\Debug\net8.0-windows\Jurnal 3.pdb
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal_3.Form1.resources
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal 3.csproj.GenerateResource.cache
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal 3.AssemblyInfoInputs.cache
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal 3.AssemblyInfo.cs
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal 3.csproj.CoreCompileInputs.cache
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal 3.dll
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\refint\Jurnal 3.dll
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal 3.pdb
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\Jurnal 3.genruntimeconfig.cache
+D:\Jurnal 3\Jurnal 3\obj\Debug\net8.0-windows\ref\Jurnal 3.dll
